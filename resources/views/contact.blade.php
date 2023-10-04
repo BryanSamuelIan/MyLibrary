@@ -22,5 +22,11 @@
                 <td>Main street 27, SBY</td>
             </tr>
         </table>
+
+        <x-buttondanger>
+            tes danger
+        </x-buttondanger>
 @endsection
+
+
     
